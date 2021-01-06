@@ -1,4 +1,5 @@
 body{
+    margin: 0%;
     font-family: 'Oswald', sans-serif;
 }
 h1{
@@ -16,4 +17,17 @@ h1{
 .half-width img{
     width: 100%;
 
+}
+.background{
+    background-image: url(images/background.jpg);
+    width: auto;
+    height: auto;
+}
+.link-button{
+    text-decoration: none;
+    background: orange ;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: papayawhip;
+    font-weight: 600;
 }
