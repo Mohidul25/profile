@@ -12,20 +12,21 @@ h1{
 .half-width{
     width: 40%;
     float: left;
-    margin: 5%;
+    padding: 10px 20px;
+
+    
+  
+    
+    
 }
 .half-width img{
     width: 100%;
 
 }
-.background{
-    background-image: url(images/background.jpg);
-    width: auto;
-    height: auto;
-}
+
 .link-button{
     text-decoration: none;
-    background: orange ;
+   background-image: linear-gradient(45deg, lightSalmon, orange);
     padding: 10px 20px;
     border-radius: 5px;
     color: papayawhip;
